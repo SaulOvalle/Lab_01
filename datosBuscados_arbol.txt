@@ -1,0 +1,7 @@
+Nombre: Jose Torres DPI: 90123456789012 Fecha de Nacimiento: 1974-01-31 Dirección:  Adress: 456 Pine St, Santiago
+Nombre: Elena Chavez DPI: 45678901234567 Fecha de Nacimiento: 1982-05-25 Dirección:  Adress: 987 Pine St, Guayaquil
+Nombre: Emilia Lopez DPI: 56789012345678 Fecha de Nacimiento: 1977-11-09 Dirección:  Adress: 678 Elm Ave, Quito
+Nombre: Maria Torres DPI: 56789012345678 Fecha de Nacimiento: 1985-01-21 Dirección:  Adress: 789 Oak Rd, Lima
+Nombre: Diego Morales DPI: 56789012345678 Fecha de Nacimiento: 1999-02-18 Dirección:  Adress: 890 Cedar Rd, Santiago
+Nombre: Carlos Mendoza DPI: 34567890123456 Fecha de Nacimiento: 1978-12-01 Dirección:  Adress: 567 Pine St, Lima
+Nombre: Valentina Lopez DPI: 89012345678901 Fecha de Nacimiento: 1975-06-14 Dirección:  Adress: 678 Elm Ave, Asuncion
